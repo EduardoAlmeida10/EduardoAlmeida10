@@ -1,6 +1,6 @@
 ### ## Olá, eu sou o Carlos Eduardo, estudante de programação
 <div align="center">
-  <a href="https://github.com/EduardoAlmeida10">
+  <a href="https://github.com/EduardoAlmeida1">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EduardoAlmeida10&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 <div style="display: inline_block"><br>
