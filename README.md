@@ -14,6 +14,13 @@
 </div>
   
   ##
+
+  [![AWS](https://images.credly.com/size/110x110/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png
+)](https://www.credly.com/badges/3ad6c3e4-8a42-4bac-86a2-c117ce967c32/print) <a href="https://drive.google.com/file/d/1kvSnLykOZZLTezlLcyKzTMOxK2KIlrhd/view?usp=sharing"> 
+<img width="175px" height="100px" src="https://leadfortaleza.com.br/ead/assets/images/logo-dell.png"/>
+</a> 
+
+##
  
 <div> 
   <a href="https://instagram.com/eduardo_almeida53" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
