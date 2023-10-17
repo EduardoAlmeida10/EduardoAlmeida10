@@ -1,4 +1,4 @@
-## Olá, eu sou o Carlos Eduardo, estudante de programação
+## Olá, eu sou o Carlos Eduardo, desenvolvedor frontend.
 <div align="center">
   <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=EduardoAlmeida10&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Eduardo Almeida github stats" /> 
