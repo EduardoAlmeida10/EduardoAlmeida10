@@ -23,7 +23,7 @@
 
 <div align="center">
   <a href="https://www.credly.com/badges/3ad6c3e4-8a42-4bac-86a2-c117ce967c32/print" target="_blank">
-    <img width="110px" height="110px" src="https://images.credly.com/size/110x110/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png" alt="AWS Academy Graduate"/>
+    <img src="https://images.credly.com/size/340x340/images/e3541a0c-dd4a-4820-8052-5001006efc85/blob" width="110" heigth="110" />
   </a>
   <a href="https://drive.google.com/file/d/1kvSnLykOZZLTezlLcyKzTMOxK2KIlrhd/view?usp=sharing" target="_blank">
     <img width="175px" height="100px" src="https://leadfortaleza.com.br/ead/assets/images/logo-dell.png" alt="Dell Certification"/>
