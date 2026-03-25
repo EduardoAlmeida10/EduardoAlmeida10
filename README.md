@@ -5,8 +5,8 @@
 <div align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=EduardoAlmeida10&show_icons=true&theme=tokyonight" height="165" />
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=EduardoAlmeida10&layout=compact&theme=tokyonight" height="170" />
-</div>
-
+</div> 
+</br>
 <div align="center" style="margin-top: 20px;">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nestjs,postgres,git,nodejs" />
 </div>
