@@ -3,18 +3,12 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=EduardoAlmeida10&show_icons=true&theme=tokyonight" height="170" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=EduardoAlmeida10&show_icons=true&theme=tokyonight" height="165" />
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=EduardoAlmeida10&layout=compact&theme=tokyonight" height="170" />
 </div>
 
-<div align="center" style="display: inline_block"><br>
-  <img align="center" alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="TypeScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Next.js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
-  <img align="center" alt="HTML5" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS3" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="TailwindCSS" height="40" width="40" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/tailwindcss/tailwindcss-original.svg">
+<div align="center" style="margin-top: 20px;">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nestjs,postgres,git,nodejs" />
 </div>
 
 ---
