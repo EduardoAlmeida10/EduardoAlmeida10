@@ -8,7 +8,7 @@
 </div> 
 </br>
 <div align="center" style="margin-top: 20px;">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nestjs,postgres,git,nodejs" />
+  <img src="https://skillicons.dev/icons?i=java,spring,ts,react,nextjs,tailwind,nestjs,postgres,git,nodejs" />
 </div>
 
 ---
