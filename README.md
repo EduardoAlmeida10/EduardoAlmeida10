@@ -1,4 +1,4 @@
-<h1>👋 Olá! Eu sou o Carlos Eduardo</h1>
+<h1>👋 Hello! I'm Carlos Eduardo</h1>
 
 ---
 
@@ -13,7 +13,7 @@
 
 ---
 
-### 🏅 Certificações
+### 🏅 Certifications
 
 <div align="center">
   <a href="https://www.credly.com/badges/3ad6c3e4-8a42-4bac-86a2-c117ce967c32/print" target="_blank">
